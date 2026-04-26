@@ -1,0 +1,7 @@
+@"
+venv/
+dataset/
+*.csv
+*.jar
+__pycache__/
+"@ | Set-Content .gitignore
